@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: deejayz/todo-app:build-3
+        image: deejayz/todo-app:build-5
         ports:
         - containerPort: 80
